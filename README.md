@@ -1,7 +1,7 @@
-[![header.png](header_2.png)](https://daanvanderzwaag.com)
+[![header.png](https://daanvanderzwaag.com/og-image.png)](https://daanvanderzwaag.com)
 
-[🧑‍💻 Talk to me →](https://cal.com/daan/work-with-me) 
+[📡 Meeting →](https://cal.com/daan/work-with-me) 
 
-[🔗 Checkout my work →](https://daanvanderzwaag.com) 
+[📟 Portfolio →](https://daanvanderzwaag.com) 
 
-[✉️ Send me an email →](mailto:daan@devign.it)
+[💌 Email →](mailto:dv239@cornell.edu)
